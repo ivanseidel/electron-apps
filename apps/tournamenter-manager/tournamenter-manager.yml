@@ -1,7 +1,7 @@
 name: 'Tournamenter Manager'
 description: 'Manage your Tournament event and show Live views to public.'
-website: 'https://github.com/ivanseidel/TournamenterApp'
-repository: 'https://github.com/ivanseidel/TournamenterApp'
+website: 'http://tournamenter.tenda.digital/'
+repository: 'https://github.com/tendadigital/TournamenterApp'
 keywords:
     - tournament
     - event
